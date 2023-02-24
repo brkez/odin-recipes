@@ -23,7 +23,7 @@
     transform: scale(1.05);
     transition: all ease ;
     border-radius: 15px;
-    box-shadow: 0 0 5px rgb(136, 219, 140);
+    box-shadow: 0 0 5px rgb(9, 10, 9);
 }
 .item{
     display: flex;
@@ -38,10 +38,7 @@ div img{
     width:350px;
     height:500px;
 }
-.content{
-    gap:40px;
-    display: flex;
-}
+
 .content{
     display:flex;
     flex-direction: row;
@@ -49,4 +46,7 @@ div img{
     font-size: 20px;
     gap:20px;
    }
+.right{
+    float:right;
+}
 
