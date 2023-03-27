@@ -50,10 +50,31 @@ div img{
     padding-left:50px;
     width:500px;
 }
+.IngredientsCozido{
+    border-radius: 10px;
+    border:1px solid rgb(41, 41, 41);
+    height:420px;
+    padding-left:50px;
+    width:500px;
+}
 .Steps{
     border-radius: 10px;
     border:1px solid rgb(41, 41, 41);
     height:250px;
+    padding-left:50px;
+    width:500px;
+}
+.StepsCozido{
+    border-radius: 10px;
+    border:1px solid rgb(41, 41, 41);
+    height:400px;
+    padding-left:50px;
+    width:500px;
+}
+.StepsBacalhau{
+    border-radius: 10px;
+    border:1px solid rgb(41, 41, 41);
+    height:350px;
     padding-left:50px;
     width:500px;
 }
@@ -72,4 +93,5 @@ div img{
 .right{
     float:right;
 }
+
 
